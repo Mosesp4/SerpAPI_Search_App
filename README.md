@@ -1,6 +1,6 @@
-# SerpApi Search App — Next.js
+# SerpApi Search App — JavaScript / Next.js 14, TypeScript
 
-A production-ready search app built with **Next.js 14**, **TypeScript**, and **Tailwind CSS** that integrates [SerpApi](https://serpapi.com) to fetch and display live Google search results — without building or maintaining a scraper.
+A production-ready search app built with **Javascript** **Next.js 14**, **TypeScript**, and **Tailwind CSS** that integrates [SerpApi](https://serpapi.com) to fetch and display live Google search results — without building or maintaining a scraper.
 
 Built as a companion to the article: **[How to Integrate a Search API Into Your JavaScript App](https://medium.com/@echelamoses)**
 
