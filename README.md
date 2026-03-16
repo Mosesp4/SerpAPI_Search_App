@@ -49,7 +49,7 @@ npm install
 ### 3. Set up your API key
 
 ```bash
-cp .env.example .env.local
+cp .env.local
 ```
 
 Open `.env.local` and add your SerpApi key:
@@ -145,7 +145,7 @@ vercel
 When prompted, add your environment variable:
 - `SERPAPI_KEY` → your API key
 
-Or deploy via the Vercel dashboard — connect your GitHub repo and add `SERPAPI_KEY` under **Settings → Environment Variables**. Every push to `main` deploys automatically.
+Or deploy via the Vercel dashboard: connect your GitHub repo and add `SERPAPI_KEY` under **Settings → Environment Variables**. Every push to `main` deploys automatically.
 
 ---
 
@@ -161,7 +161,7 @@ Or deploy via the Vercel dashboard — connect your GitHub repo and add `SERPAPI
 
 ## Author
 
-**Moses Echela** — Frontend Engineer & Developer Advocate
+**Moses Echela** — Full-stack Engineer (Frontend) & Developer Advocate
 
 - Medium: [medium.com/@echelamoses](https://medium.com/@echelamoses)
 - LinkedIn: [linkedin.com/in/moses-echela-78845b260](https://www.linkedin.com/in/moses-echela-78845b260/)
